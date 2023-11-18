@@ -1,0 +1,15 @@
+#MacOS file
+bookhaven-react-master/.DS_Store
+.DS_Store
+
+#node_modules
+bookhaven-react-master/webshop-api/node_modules/
+bookhaven-react-master/webshop-app/node_modules/
+bookhaven-react-master/bookhaven-api/node_modules/
+
+# jest coverage dashboard
+bookhaven-react-master/bookhaven-api/coverage/
+bookhaven-react-master/bookhaven-api/.env
+bookhaven-react-master/bookhaven-api/dbConfig.js
+bookhaven-react-master/bookhaven-api/server.js
+bookhaven-react-master/bookhaven-api/server.key

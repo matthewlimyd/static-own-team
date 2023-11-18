@@ -1,0 +1,11 @@
+{"level":"info","message":"Order added successfully Order ID: 45, Payment Status: paid, User: 1, Payment ID: pi_3O8iJWJ1lFzljorg0orRVT1d","timestamp":"2023-11-04T11:46:42.367Z"}
+{"level":"info","message":"Order added successfully Order ID: 2, Payment Status: paid, User: 1, Payment ID: pi_3O8j4QJ1lFzljorg057Xig4D","timestamp":"2023-11-04T12:35:24.266Z"}
+{"level":"warn","message":"Checkout Session ID mismatch: cs_test_a10pYmJ2lOJZeBupAuEd29tvpieQQzgX6JZCxgwKRIhk4oG1grAqAYr2v3","timestamp":"2023-11-04T12:38:28.537Z"}
+{"level":"info","message":"Order added successfully Order ID: 3, Payment Status: paid, User: 1, Payment ID: pi_3O8j7RJ1lFzljorg1IJalOiR","timestamp":"2023-11-04T12:38:31.202Z"}
+{"level":"info","message":"Order added successfully Order ID: 4, Payment Status: paid, User: 1, Payment ID: pi_3O8jIKJ1lFzljorg1gAYmgpy","timestamp":"2023-11-04T12:49:46.258Z"}
+{"level":"warn","message":"Checkout Session ID mismatch: cs_test_b1MHsfNGg2W0FxURI5kWfdOUpnHJY0XUuNT9kTx3W2j3AiyWt90SGaPWui","timestamp":"2023-11-04T13:00:45.039Z"}
+{"level":"warn","message":"Checkout Session ID mismatch: cs_test_a1G6xdrSmN5h9JEnZd2CUPpo6fL35zE70PlM7tuLVkMgjZWtzC72548wse","timestamp":"2023-11-04T13:00:49.451Z"}
+{"level":"warn","message":"Checkout Session ID mismatch: cs_test_a10IWKnR5fu2KhY1jpX7hZoFKcqEAgVrIIw0FM1iD2lM00GkETMGB7SdZn","timestamp":"2023-11-04T13:10:18.319Z"}
+{"level":"warn","message":"Checkout Session ID mismatch: cs_test_a1D41cL9Z3W5ejb9RS0ivWBeV0SRauNsY9fVunzziB70STtaW6VpqFnpV2","timestamp":"2023-11-04T13:10:42.066Z"}
+{"level":"warn","message":"Checkout Session ID mismatch: cs_test_a1xR8NcnILUg405wtxqbX5JsNmLUWVKl8rniGTNn9Fri5sUhGgOv3d1k4d","timestamp":"2023-11-04T13:16:59.865Z"}
+{"level":"warn","message":"Checkout Session ID mismatch: cs_test_a1lU4mqOsVoF2spnejjbJnSnIMPdn4gkcXCR8mDV5Rxog9rJE77qRrbTqK","timestamp":"2023-11-04T13:17:11.225Z"}
